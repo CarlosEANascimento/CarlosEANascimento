@@ -8,13 +8,13 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou estudante de **Engenharia de Computação** (PUC-Campinas) e Técnico em Desenvolvimento de Sistemas. Tenho uma forte inclinação para o desenvolvimento de infraestrutura, arquitetura de software e bancos de dados. 
+Sou estudante de **Engenharia de Computação** (PUC-Campinas) e Técnico em Desenvolvimento de Sistemas. Meu foco principal está no desenvolvimento **Backend**, com sólida base em arquitetura Java, infraestrutura de containers e modelagem de bancos de dados.
 
-Meu grande objetivo é aplicar meus conhecimentos em **microsserviços, SQL/NoSQL e containers** na criação de soluções performáticas e escaláveis. Sou movido pelo desafio de otimizar sistemas e construir aplicações robustas, sempre focado na qualidade de entrega, seguindo boas práticas como **SOLID** e **Clean Code**. Além disso, possuo uma mentalidade analítica voltada para o monitoramento, diagnóstico de falhas e análise de dados.
+Busco constantemente aplicar boas práticas de design de software (como SOLID e Clean Code) para construir soluções robustas, performáticas e escaláveis. Além da escrita de código, possuo uma mentalidade analítica voltada para a resolução de problemas complexos, análise de dados e otimização de sistemas.
 
-- 🎓 Cursando **Engenharia de Computação** na PUC-Campinas (Previsão: 2028)
-- 💼 Buscando oportunidades como **Desenvolvedor Backend / Estágio**
-- 🌱 Atualmente aprofundando conhecimentos em **Java (Spring Boot), Arquitetura de Software e Orquestração (Kubernetes)**
+- 🎓 Cursando **Engenharia de Computação** (Previsão: 2028)
+- 💼 Buscando oportunidades de **Estágio em Desenvolvimento Backend**
+- 🌱 Aprofundando conhecimentos em **Spring Boot, Kubernetes e Arquitetura de Software**
 
 ---
 

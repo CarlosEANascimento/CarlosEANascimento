@@ -47,7 +47,7 @@ Busco constantemente aplicar boas práticas de design de software (como SOLID e 
 
 * **[API REST de Gerenciamento](https://github.com/CarlosEANascimento/padroes-de-projeto)**: API escalável em Spring Boot para gestão de clientes. Implementação de consumo de APIs externas via OpenFeign (ViaCEP), JPA/Hibernate e Padrões de Projeto.
 * **[Board API (Kanban)](https://github.com/CarlosEANascimento/board-api)**: API REST em Spring Boot para gestão de fluxos de trabalho estilo Kanban. Conta com lógica de bloqueio de cartões, histórico auditável, mapeamento complexo com JPA e tratamento centralizado de exceções.
-* **[PUCVault Database](https://github.com/rsushizawa/PUCVault/tree/main/database)**: Modelagem e implementação de banco de dados relacional focado em segurança, normalização e otimização de queries com views.
+* **[PUCVault Database - Em andamento...]**: Modelagem e implementação de banco de dados relacional focado em segurança, normalização e otimização de queries com views.
 
 ---
 

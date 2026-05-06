@@ -54,9 +54,9 @@ Meu grande objetivo é aplicar meus conhecimentos em **microsserviços, SQL/NoSQ
 ### 📈 Minhas Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosEANascimento&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEANascimento&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.pufler.dev/api?username=CarlosEANascimento&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <br><br>
+  <img src="https://github-readme-stats.pufler.dev/api/top-langs/?username=CarlosEANascimento&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
 ---

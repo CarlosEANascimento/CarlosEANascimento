@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Carlos Eduardo! 👋</h1>
 
 <p align="center">
-  <strong>Estudante de Engenharia de Computação | Desenvolvedor Backend | Entusiasta de DevOps & Dados</strong>
+  <strong>Estudante de Engenharia de Computação | Desenvolvedor Frontend e Backend | Entusiasta de DevOps & Dados</strong>
 </p>
 
 ---

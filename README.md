@@ -20,19 +20,27 @@ Busco constantemente aplicar boas práticas de design de software (como SOLID e 
 
 ### 🛠️ Tecnologias e Ferramentas
 
+### 🛠️ Tecnologias e Ferramentas
+
 **Backend & Linguagens**
 <br>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+
+**Frontend**
+<br>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
 **Banco de Dados**
 <br>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 
 **DevOps & Infraestrutura**
 <br>
@@ -41,13 +49,21 @@ Busco constantemente aplicar boas práticas de design de software (como SOLID e 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
+**Outras Tecnologias & Noções**
+<br>
+<img src="https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=embarcadero&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+
 ---
 
 ### 🚀 Projetos em Destaque
 
 * **[API REST de Gerenciamento](https://github.com/CarlosEANascimento/padroes-de-projeto)**: API escalável em Spring Boot para gestão de clientes. Implementação de consumo de APIs externas via OpenFeign (ViaCEP), JPA/Hibernate e Padrões de Projeto.
 * **[Board API (Kanban)](https://github.com/CarlosEANascimento/board-api)**: API REST em Spring Boot para gestão de fluxos de trabalho estilo Kanban. Conta com lógica de bloqueio de cartões, histórico auditável, mapeamento complexo com JPA e tratamento centralizado de exceções.
-* **[PUCVault Database - Em andamento...]**: Modelagem e implementação de banco de dados relacional focado em segurança, normalização e otimização de queries com views.
+* **[PUCVault Database](https://github.com/rsushizawa/PUCVault)**: Modelagem e implementação de banco de dados relacional focado em segurança, normalização e otimização de queries com views.
 
 ---
 
